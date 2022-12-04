@@ -3,26 +3,38 @@
     {
       "id": 1,
       "firstName": "joãozinho",
+      "lastName": "marcelino",
       "birthDay": "17/9/1992",
-      "year": "first year"
+      "CPF": "1234899029",
+      "email": "patrickwarley@gmail.com",
+      "password": "pasteldeflango"
     },
     {
       "id": 2,
-      "firstName": "joão joãozinho",
+      "firstName": "jorgezinho",
+      "lastName": "telles",
       "birthDay": "17/9/1992",
-      "year": "first year"
+      "CPF": "1234899029",
+      "email": "patrickwarley@gmail.com",
+      "password": "pasteldeflango"
     },
     {
       "id": 3,
-      "firstName": "marcelino",
+      "firstName": "zinho",
+      "lastName": "m",
       "birthDay": "17/9/1992",
-      "year": "first year"
+      "CPF": "1234899029",
+      "email": "patrickwarley@gmail.com",
+      "password": "pasteldeflango"
     },
     {
       "id": 4,
-      "firstName": "jorge",
+      "firstName": "joozinho",
+      "lastName": "mar",
       "birthDay": "17/9/1992",
-      "year": "first year"
+      "CPF": "1234899029",
+      "email": "patrickwarley@gmail.com",
+      "password": "pasteldeflango"
     }
   ],
   "Professors": [
